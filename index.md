@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello, I'm PhongKamy, an AI Engineer passionate about exploring cutting-edge technologies in large language models (LLMs), machine learning, and deep learning. My focus is on understanding how to apply AI effectively in practical work environments. Through my journey, I aim to study and share the latest advancements and tips for building AI-powered applications, helping others navigate the rapidly evolving landscape of AI.
