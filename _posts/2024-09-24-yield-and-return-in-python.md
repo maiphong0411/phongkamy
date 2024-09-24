@@ -21,7 +21,7 @@ Imagine a baker, Sarah, who is baking cookies for her neighbors. She has two dif
 
 - **`return` ends the function**: When a function hits `return`, it completes its execution and returns a value. The function can’t return anything else after that.
   
-- **`yield pauses the function**: When a function hits `yield`, it pauses and gives you a value. The function can be resumed and keep yielding more values without starting over.
+- **`yield` pauses the function**: When a function hits `yield`, it pauses and gives you a value. The function can be resumed and keep yielding more values without starting over.
 
 ### Example
 
