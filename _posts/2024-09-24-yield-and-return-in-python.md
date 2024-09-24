@@ -12,7 +12,7 @@ Imagine a baker, Sarah, who is baking cookies for her neighbors. She has two dif
 
 - **The `yield` way:** Instead of making you wait for all the cookies to be done, Sarah gives you one cookie as soon as it comes out of the oven. As each cookie is baked, she immediately hands it to you. This way, you can start enjoying cookies while she continues baking. This is like `yield`—it returns a value at each step and remembers where it left off, so it can pick up from there later.
 
-![Yield and Return](../_images/yield_return_in_python.png)
+![Yield and Return](/images/yield_return_in_python.png)
 
 
 ---
