@@ -64,4 +64,4 @@ for cookie in bake_cookies_yield():
 
 Use `return` when you want a function to give back a final result. Use `yield` when you want to handle data one item at a time and don’t need the function to finish all at once.
 
-Link for markdown [Markdown](https://github.com/maiphong0411/phongkamy/blob/main/_posts/2024-09-24-yield-and-return-in-python.md)
+Link for [PDF file](https://github.com/maiphong0411/phongkamy/blob/main/_posts/2024-09-24-yield-and-return-in-python.md)
